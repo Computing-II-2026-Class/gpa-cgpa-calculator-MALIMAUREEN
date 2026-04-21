@@ -92,7 +92,6 @@ int main(void) {
     else if (cgpa >= 2.00) printf("Pass\n");
     else printf("Fail\n");
 
-}
     /* Declare variables here */
 
     /* Read 16 scores */
