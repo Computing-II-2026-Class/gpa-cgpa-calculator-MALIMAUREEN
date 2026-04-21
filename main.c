@@ -18,6 +18,7 @@ char* getGrade(float score) {
     if (score >= 60) return "C";
     if (score >= 50) return "D";
     return "F";
+   }
 
 int main(void) {
  
