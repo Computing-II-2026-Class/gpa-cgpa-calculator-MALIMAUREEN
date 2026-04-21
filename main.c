@@ -21,7 +21,7 @@ char* getGrade(float score) {
 
 int main(void) {
  
-}
+
 
       char *sem1_codes[] = {"TEMB 1101", "TEMB 1102", "TEMB 1103", "TEMB 1104", 
                           "TEMB 1105", "TEMB 1106", "TEMB 1107", "TEMB 1108"};
@@ -90,7 +90,7 @@ int main(void) {
     else if (cgpa >= 2.80) printf("Second Class Lower\n");
     else if (cgpa >= 2.00) printf("Pass\n");
     else printf("Fail\n");
-;
+
 }
     /* Declare variables here */
 
